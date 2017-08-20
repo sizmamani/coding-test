@@ -1,0 +1,23 @@
+{
+    "name": "iflix_coding_test",
+    "version": "1.0.0",
+    "description": "Welcome to the iflix Coding Assignment! We can't wait to see what you come up with!",
+    "main": "app.js",
+    "directories": {
+        "test": "mocha **/*.test.js"
+    },
+    "dependencies": {
+        "lodash": "^4.17.4",
+        "moment": "^2.18.1"
+    },
+    "devDependencies": {
+        "expect": "^1.20.2",
+        "mocha": "^3.5.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sizmamani/coding-test.git"
+    },
+    "author": "Mostafa Shariati",
+    "homepage": "https://github.com/sizmamani/coding-test.git#readme"
+}
